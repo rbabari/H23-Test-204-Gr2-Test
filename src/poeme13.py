@@ -1,0 +1,1 @@
+print("La rose du jardin sent bien mieux que celle de la ferme")
